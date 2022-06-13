@@ -1,2 +1,2 @@
 # TutuRu
-Jetpack Compose + Clean Architecture + Coroutines + Hilt + Coil + GithubApi + Room + Unit Tests
+Jetpack Compose + Clean Architecture + Coroutines + Flow + Hilt + Coil + GithubApi + Room + Unit Tests
